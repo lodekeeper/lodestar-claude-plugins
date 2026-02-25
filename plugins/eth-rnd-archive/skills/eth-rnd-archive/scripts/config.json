@@ -1,0 +1,22 @@
+{
+  "channels": [
+    "epbs",
+    "consensus-dev",
+    "allcoredevs",
+    "apis",
+    "specifications",
+    "inclusion-lists",
+    "shorter-slot-times",
+    "l1-zkevm",
+    "l1-zkevm-protocol",
+    "data-availability-sampling",
+    "networking",
+    "libp2p",
+    "peerdas-testing",
+    "peerdas-devnet-alerts",
+    "client-development",
+    "execution-dev"
+  ],
+  "checkIntervalMinutes": 60,
+  "repoPath": "~/eth-rnd-archive"
+}
